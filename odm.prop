@@ -1,0 +1,28 @@
+# Framework detect
+ro.vendor.qti.va_odm.support=1
+
+# Media
+ro.odm.build.media_performance_class=30
+
+#Stock
+gallery.image.sharpen.on=true
+odm.dirac.path=/odm/etc/dirac
+persist.sys.oppo.fusionlight=true
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+persist.vendor.radio.custom_ecc=0
+persist.version.confidential=false
+ro.com.android.dataroaming=false
+ro.com.google.clientidbase=android-oppo
+ro.com.google.lens.oem_camera_package=com.oppo.camera
+ro.commonsoft.ota=RECE4244
+ro.oplus.image.odm.type=206BD
+ro.oppo.market.name=realme C15 Qualcomm Edition
+ro.product.bootreg.disable.command=true
+ro.product.hw=FA218
+ro.rom.featrue=allnet
+ro.separate.soft=206BD
+ro.sys.reserve.integrate=true
+ro.vendor.product.device.oem=RECE4244
+ro.vendor.product.oem=RMX2195
+ro.version.confidential=false
