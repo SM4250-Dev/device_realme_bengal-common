@@ -343,6 +343,10 @@ PRODUCT_PACKAGES += \
     libqti_vndfwk_detect.vendor \
     libvndfwk_detect_jni.qti \
     libvndfwk_detect_jni.qti.vendor
+    
+# QNS
+PRODUCT_PACKAGES += \
+    libstdc++_vendor
 
 # QTI
 TARGET_COMMON_QTI_COMPONENTS := \
