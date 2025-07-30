@@ -395,7 +395,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     device/realme/bengal-common \
     hardware/google/interfaces \
-    hardware/google/pixel \
     hardware/oplus \
     vendor/nxp/opensource/sn100x \
     vendor/qcom/opensource/usb/etc
