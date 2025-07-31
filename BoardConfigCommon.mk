@@ -99,7 +99,7 @@ BOARD_KERNEL_CMDLINE += kpti=off
 
 BOARD_KERNEL_IMAGE_NAME := Image
 TARGET_KERNEL_SOURCE := kernel/realme/bengal
-TARGET_KERNEL_CONFIG := vendor/bengal_defconfig
+TARGET_KERNEL_CONFIG := vendor/bengal-perf_defconfig
 
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 
