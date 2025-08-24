@@ -98,8 +98,8 @@ BOARD_KERNEL_CMDLINE += androidboot.init_fatal_reboot_target=recovery
 BOARD_KERNEL_CMDLINE += kpti=off
 
 BOARD_KERNEL_IMAGE_NAME := Image
-TARGET_KERNEL_SOURCE := kernel/realme/bengal
-TARGET_KERNEL_CONFIG := vendor/bengal-perf_defconfig
+TARGET_KERNEL_SOURCE := kernel/realme/RMX2195
+TARGET_KERNEL_CONFIG := vendor/RMX2195_defconfig
 
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 
